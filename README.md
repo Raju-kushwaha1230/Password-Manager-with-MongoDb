@@ -1,7 +1,7 @@
 # Password Manager
 
 A secure and interactive password manager built using React for the frontend, Express.js for the backend, and MongoDB for data storage. This application allows users to store site names, usernames, and passwords securely.
-### Login Page
+### Main Page
 ![Login Page](./public/app-screen.png)
 
 
